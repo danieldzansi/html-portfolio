@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../005 3.4-Birthday-Invite-Project/3.4 Birthday Invite Project"
+		},
+		{
+			"path": "../../001 4.0-File-Paths/4.0 File Paths"
+		},
+		{
+			"path": "../../002 4.1-Webpages/4.1 Webpages"
+		},
+		{
+			"path": "../../002 4.1-Webpages/4.3 HTML Porfolio Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3.1 Nesting and Indentation"
+	}
+}
